@@ -1,0 +1,39 @@
+
+---Downloaded files---
+The import files for: Hamy Vosugh Demo Import were successfully downloaded!
+Initial max execution time = 1200
+Files info:
+Site URL = http://localhost:10059
+Data file = /Users/khodba/Local Sites/hamyvosugh-theme/app/public/wp-content/uploads/2024/09/demo-content-import-file_2024-09-20__09-49-24.xml
+Widget file = /Users/khodba/Local Sites/hamyvosugh-theme/app/public/wp-content/uploads/2024/09/demo-widgets-import-file_2024-09-20__09-49-24.json
+Customizer file = /Users/khodba/Local Sites/hamyvosugh-theme/app/public/wp-content/uploads/2024/09/demo-customizer-import-file_2024-09-20__09-49-24.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+Categories - No Title - Imported
+Tag Cloud - No Title - Imported
+
+Socials : 
+
+HamyVosugh_widget_socials - No Title - Site does not support widget
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not suitable for current theme. You can only import customizer settings for the same theme or a child theme.
+
+---ocdi/after_import---
+

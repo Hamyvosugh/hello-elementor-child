@@ -1,0 +1,164 @@
+
+---Downloaded files---
+The import files for: Hamy Vosugh Demo Import were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://theme.Hamyvosugh.me/HamyVosugh
+Data file = /home/admin/web/theme.Hamyvosugh.me/public_html/HamyVosugh/wp-content/uploads/2018/03/demo-content-import-file_2018-03-28__14-36-06.xml
+Widget file = /home/admin/web/theme.Hamyvosugh.me/public_html/HamyVosugh/wp-content/uploads/2018/03/demo-widgets-import-file_2018-03-28__14-36-06.json
+Customizer file = /home/admin/web/theme.Hamyvosugh.me/public_html/HamyVosugh/wp-content/uploads/2018/03/demo-customizer-import-file_2018-03-28__14-36-06.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[ERROR] Failed to import "canola2" (Media)
+[ERROR] Failed to import "dsc20050727_091048_222" (Media)
+[ERROR] Failed to import "dsc20050813_115856_52" (Media)
+[ERROR] Failed to import "Bell on Wharf" (Media)
+[ERROR] Failed to import "Golden Gate Bridge" (Media)
+[ERROR] Failed to import "Sunburst Over River" (Media)
+[ERROR] Failed to import "Boardwalk" (Media)
+[ERROR] Failed to import "Yachtsody in Blue" (Media)
+[ERROR] Failed to import "Rain Ripples" (Media)
+[ERROR] Failed to import "Sydney Harbor Bridge" (Media)
+[ERROR] Failed to import "Wind Farm" (Media)
+[ERROR] Failed to import "Antique Farm Machinery" (Media)
+[ERROR] Failed to import "Orange Iris" (Media)
+[ERROR] Failed to import "Rusty Rail" (Media)
+[ERROR] Failed to import "Sea and Rocks" (Media)
+[ERROR] Failed to import "Big Sur" (Media)
+[ERROR] Failed to import "Windmill" (Media)
+[ERROR] Failed to import "Huatulco Coastline" (Media)
+[ERROR] Failed to import "Brazil Beach" (Media)
+[ERROR] Failed to import "Huatulco Coastline" (Media)
+[ERROR] Failed to import "Boat Barco Texture" (Media)
+[ERROR] Failed to import "dsc20040724_152504_532" (Media)
+[ERROR] Failed to import "dsc20050604_133440_3421" (Media)
+[ERROR] Failed to import "St. Louis Blues" (Media)
+[ERROR] Failed to import "OLYMPUS DIGITAL CAMERA" (Media)
+[ERROR] Failed to import "Image Alignment 580x300" (Media)
+[ERROR] Failed to import "Image Alignment 150x150" (Media)
+[ERROR] Failed to import "Horizontal Featured Image" (Media)
+[ERROR] Failed to import "I Am Worth Loving Wallpaper" (Media)
+[ERROR] Failed to import "Image Alignment 300x200" (Media)
+[ERROR] Failed to import "Vertical Featured Image" (Media)
+[ERROR] Failed to import "Image Alignment 1200x4002" (Media)
+[ERROR] Failed to import "Unicorn Wallpaper" (Media)
+[ERROR] Failed to import "triforce-wallpaper" (Media)
+[ERROR] Failed to import "Wide-Eyes" (Media)
+[ERROR] Failed to import "1" (Media)
+[ERROR] Failed to import "2" (Media)
+[ERROR] Failed to import "3" (Media)
+[ERROR] Failed to import "4" (Media)
+[ERROR] Failed to import "5" (Media)
+[ERROR] Failed to import "6" (Media)
+[ERROR] Failed to import "7" (Media)
+[ERROR] Failed to import "2" (Media)
+[ERROR] Failed to import "elti-meshau-208526" (Media)
+[ERROR] Failed to import "3-2500w" (Media)
+[ERROR] Failed to import "favicon" (Media)
+[ERROR] Failed to import "photo-1457088846009-9dbcf9d7643d" (Media)
+[ERROR] Failed to import "photo-1470297045518-35eb4bf6c00e" (Media)
+[ERROR] Failed to import "photo-1485814082842-a30d1628c44d" (Media)
+[ERROR] Failed to import "dsc20040724_152504_532" (Media)
+[ERROR] Failed to import "dsc20050604_133440_34211" (Media)
+[ERROR] Failed to import "2014-slider-mobile-behavior" (Media)
+[ERROR] Failed to import "dsc20050315_145007_132" (Media)
+[ERROR] Failed to import "spectacles" (Media)
+[ERROR] Failed to import "photo-1488034976201-ffbaa99cbf5c" (Media)
+[ERROR] Failed to import "photo-1494607282500-da659ea65e90" (Media)
+[ERROR] Failed to import "photo-1504871897786-1c3621e99af7" (Media)
+[ERROR] Failed to import "photo-1515709980177-7a7d628c09ba" (Media)
+[ERROR] Failed to import "photo-1516927173297-8ea8a8e924d6" (Media)
+[ERROR] Failed to import "photo-1434596922112-19c563067271" (Media)
+[ERROR] Failed to import "photo-1445384763658-0400939829cd" (Media)
+[ERROR] Failed to import "photo-1490611938744-b7bfa268923e" (Media)
+[ERROR] Failed to import "photo-1501014631710-390607239895" (Media)
+[ERROR] Failed to import "photo-1511809870860-4d2806eb1908" (Media)
+[ERROR] Failed to import "photo-1517498388947-9c0f28dc88a5" (Media)
+[ERROR] Failed to import "photo-1517931524326-bdd55a541177" (Media)
+[ERROR] Failed to import "photo-1481966115753-963394378f23" (Media)
+[ERROR] Failed to import "photo-1485742032238-7543513eeba6" (Media)
+[ERROR] Failed to import "photo-1497493292307-31c376b6e479" (Media)
+[ERROR] Failed to import "photo-1498622248929-1d52d466f4a5" (Media)
+[ERROR] Failed to import "photo-1507789836536-5386aa392006" (Media)
+[ERROR] Failed to import "photo-1513738260158-30e559c10093" (Media)
+[ERROR] Failed to import "photo-1517328894681-0f5dfabd463c" (Media)
+[ERROR] Failed to import "kim-carpenter-307030" (Media)
+[ERROR] Failed to import "nicholas-green-378149" (Media)
+[ERROR] Failed to import "photo-1470259078422-826894b933aa" (Media)
+[ERROR] Failed to import "photo-1485875437342-9b39470b3d95" (Media)
+[ERROR] Failed to import "photo-1488282396544-0212eea56a21" (Media)
+[ERROR] Failed to import "photo-1504758243584-b40f072d53ae" (Media)
+[ERROR] Failed to import "photo-1506609657475-b6fa02f479f9" (Media)
+[ERROR] Failed to import "photo-1515068804703-1c48477e4dfd" (Media)
+[ERROR] Failed to import "photo-1447014421976-7fec21d26d86" (Media)
+[ERROR] Failed to import "photo-1489493887464-892be6d1daae" (Media)
+[ERROR] Failed to import "photo-1504270159110-876cfaca9ece" (Media)
+[ERROR] Failed to import "photo-1508325732378-00eafff6c504" (Media)
+[ERROR] Failed to import "photo-1513257667190-565230ff0364" (Media)
+[ERROR] Failed to import "photo-1515191107209-c28698631303" (Media)
+[ERROR] Failed to import "photo-1512668843144-3b8c0c81c233" (Media)
+[ERROR] Failed to import "photo-1473115209096-e0375dd6b3b3" (Media)
+[ERROR] Failed to import "photo-1511431426884-c1525fc26c8a" (Media)
+[ERROR] Failed to import "photo-1511439817358-bee8e21790b5" (Media)
+[ERROR] Failed to import "photo-1515224526905-51c7d77c7bb8" (Media)
+[ERROR] Failed to import "photo-1515285768613-9efbec9fe26b" (Media)
+[ERROR] Failed to import "photo-1516703914899-e8303d01329a" (Media)
+[ERROR] Failed to import "photo-1516714819001-8ee7a13b71d7" (Media)
+[ERROR] Failed to import "photo-1518065336951-d16c043900d6" (Media)
+[ERROR] Failed to import "photo-1519163929887-93a63ded90ec" (Media)
+[ERROR] Failed to import "photo-1504816162793-0d49d4a50608" (Media)
+[ERROR] Failed to import "photo-1504198912477-3018896a9525" (Media)
+[ERROR] Failed to import "photo-1504311640015-772816fba558" (Media)
+[ERROR] Failed to import "photo-1504811060900-0d77dc63a136" (Media)
+[ERROR] Failed to import "photo-1504888302758-9adb6780e7c8" (Media)
+[ERROR] Failed to import "photo-1504893524553-b855bce32c67" (Media)
+[ERROR] Failed to import "photo-1507237081139-5dfb209dba79" (Media)
+[ERROR] Failed to import "photo-1505707697239-8e8fe6214967" (Media)
+[ERROR] Failed to import "photo-1474925558543-e7a5f06e733e" (Media)
+[ERROR] Failed to import "10b[1]" (Media)
+[ERROR] Failed to import "photo-1517400746-eb27afe9abc8" (Media)
+[ERROR] Failed to import "photo-1496588698044-1864cef7d583" (Media)
+[ERROR] Failed to import "photo-1502630859934-b3b41d18206c" (Media)
+[ERROR] Failed to import "11b[1]" (Media)
+[ERROR] Failed to import "12b[1]" (Media)
+[ERROR] Failed to import "13b[1]" (Media)
+[ERROR] Failed to import "10b[3]" (Media)
+[ERROR] Failed to import "One Click Demo Import - log_file_2018-03-16__11-46-29" (Media)
+[ERROR] Failed to import "4032" (Media)
+[ERROR] Failed to import "photo-1498225427886-51df3924bfdf" (Media)
+[ERROR] Failed to import "photo-1423492759094-e98da7756991" (Media)
+[ERROR] Failed to import "photo-1508541228984-ffd19318caa5" (Media)
+[ERROR] Failed to import "photo-1509380836717-c4320ccf1a6f" (Media)
+[ERROR] Failed to import "c1" (Media)
+[ERROR] Failed to import "c2" (Media)
+[ERROR] Failed to import "c3" (Media)
+[ERROR] Failed to import "c4" (Media)
+[ERROR] Failed to import "c5" (Media)
+[ERROR] Failed to import "c6" (Media)
+[ERROR] Failed to import "c7" (Media)
+[ERROR] Failed to import "c8" (Media)
+[ERROR] Failed to import "c9" (Media)
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Imported
+Categories - No Title - Imported
+Tag Cloud - No Title - Imported
+
+Socials : 
+
+Hamy Vosugh: Social Links - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
