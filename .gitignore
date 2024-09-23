@@ -1,9 +1,4 @@
 /wp-admin/
-/wp-includes/
-/wp-content/uploads/
-/wp-content/plugins/
-/wp-content/themes/*
-!/wp-content/themes/your-child-theme-folder/
 /node_modules/
 /npm-debug.log*
 /yarn-error.log*
